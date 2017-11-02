@@ -15,7 +15,7 @@ i {
 li a {
 	text-decoration: none;
 	color: grey;
-	font-size: .9rem;
+	font-size: .8rem;
 }
 
 /* Classes */
@@ -27,14 +27,12 @@ li a {
     float: right;
     padding: .8rem;
    
-    
 }
 
 .li-left {
 	display: inline;
 	float: left;
 	padding: .8rem;
-
 	
 }
 
@@ -56,4 +54,11 @@ li a {
 .search-button
  {
  	padding: 1rem;
+ }
+
+ .style-search {
+ 	border-radius: 3px;
+ 	border: 1px solid #e5e5e5;
+ 	box-shadow: 0 1px 3px #C8C8C8;
+ 	background: white;
  }

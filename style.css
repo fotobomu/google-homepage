@@ -1,0 +1,59 @@
+
+/* Global CSS*/
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+i {
+	padding: .4rem;
+}
+
+li a {
+	text-decoration: none;
+	color: grey;
+	font-size: .9rem;
+}
+
+/* Classes */
+
+
+
+.li-right {
+    display: inline;
+    float: right;
+    padding: .8rem;
+   
+    
+}
+
+.li-left {
+	display: inline;
+	float: left;
+	padding: .8rem;
+
+	
+}
+
+.google-logo {
+	padding-top: 10rem;
+	padding-left: 2rem;
+	padding-right: 2rem;
+	text-align: center;
+	width: 25rem;
+
+}
+
+.search-bar {
+	padding: 4rem;
+	margin-right: 5rem;
+	margin-left: 5rem;
+}
+
+.search-button
+ {
+ 	padding: 1rem;
+ }
